@@ -1,3 +1,4 @@
 ## Git branch practice
 
 * This file is to help practicing git branch & merge
+* Also would try to show an example of merge conflict
