@@ -10,3 +10,5 @@
 * `git diff merge-this` will show differences 
 * Run `git checkout merge-this` to check
 * Please merge this line and a few lines below
+* Switch back to master using `git checkout master`
+* Run `git merge --no-ff merge-this` to merge
