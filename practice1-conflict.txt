@@ -1,3 +1,8 @@
 ## Git merge conflict example
 
 * This file will show `git merge` conflict
+
+## This part will be fine
+
+* This section would have the same content.
+* So the merge would succeed without conflict.
