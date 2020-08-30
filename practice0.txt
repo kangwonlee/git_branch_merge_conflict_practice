@@ -1,0 +1,3 @@
+## Git branch practice
+
+* This file is to help practicing git branch & merge
