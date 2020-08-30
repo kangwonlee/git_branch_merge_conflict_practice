@@ -12,3 +12,4 @@
 * Please merge this line and a few lines below
 * Switch back to master using `git checkout master`
 * Run `git merge --no-ff merge-this` to merge
+* After merge `git log --graph --all --oneline --decorate` again to check the graph
